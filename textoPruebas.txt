@@ -1,3 +1,7 @@
 ksksks
+<<<<<<< HEAD
 
 jajaja
+=======
+sisisi
+>>>>>>> Andres
